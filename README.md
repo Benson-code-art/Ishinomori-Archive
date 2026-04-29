@@ -1,4 +1,4 @@
-https://benson-code-art.github.io/Ishinomori-Archive/show.html?id=akuma 
+https://benson-code-art.github.io/Ishinomori-Archive/index.html
 # Ishinomori-Archive
 
 Information Infrastructure Team Assignment
